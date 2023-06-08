@@ -1,0 +1,14 @@
+Input filename: lecture_data_num.csv
+Number of rows: 12
+Number of attributes: 2
+K: 3
+File reading Time: 0 ms.
+K+NN Time: 5 ms.
+Grouping Time: 0 ms.
+Sum: 5 ms.
+Number of core points: 8
+Number of boundary points: 3
+Number of noise points: 1
+TP: 21
+TN: 33
+Rand: 0.82

@@ -1,0 +1,14 @@
+Input filename: 3d_road_network.csv
+Number of rows: 300
+Number of attributes: 3
+K: 5
+File reading Time: 5 ms.
+K+NN Time: 121746 ms.
+Grouping Time: 0 ms.
+Sum: 121751 ms.
+Number of core points: 175
+Number of boundary points: 82
+Number of noise points: 43
+TP: 666
+TN: 41371
+Rand: 0.94

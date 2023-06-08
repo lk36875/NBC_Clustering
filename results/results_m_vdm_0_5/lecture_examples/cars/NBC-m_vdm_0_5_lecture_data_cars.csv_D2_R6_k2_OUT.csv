@@ -1,0 +1,7 @@
+Id      Type    Group   Values  
+0       1       1       23.00, Family
+1       1       1       17.00, Sport
+2       1       2       43.00, Sport
+3       -1      -1      68.00, Family
+4       -1      -1      32.00, Truck
+5       1       1       20.00, Family

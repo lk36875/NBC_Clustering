@@ -1,0 +1,14 @@
+Input filename: german_credit.csv
+Number of rows: 100
+Number of attributes: 20
+K: 1
+File reading Time: 6 ms.
+K+NN Time: 1028432 ms.
+Grouping Time: 0 ms.
+Sum: 1028438 ms.
+Number of core points: 62
+Number of boundary points: 0
+Number of noise points: 38
+TP: 465
+TN: 1603
+Rand: 0.42

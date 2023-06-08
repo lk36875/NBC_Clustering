@@ -1,0 +1,14 @@
+Input filename: lecture_data_cars.csv
+Number of rows: 6
+Number of attributes: 2
+K: 3
+File reading Time: 0 ms.
+K+NN Time: 1 ms.
+Grouping Time: 0 ms.
+Sum: 1 ms.
+Number of core points: 4
+Number of boundary points: 2
+Number of noise points: 0
+TP: 6
+TN: 0
+Rand: 0.40

@@ -1,0 +1,14 @@
+Input filename: german_credit_missing.csv
+Number of rows: 100
+Number of attributes: 20
+K: 3
+File reading Time: 14 ms.
+K+NN Time: 133822 ms.
+Grouping Time: 0 ms.
+Sum: 133836 ms.
+Number of core points: 48
+Number of boundary points: 15
+Number of noise points: 37
+TP: 813
+TN: 1375
+Rand: 0.44

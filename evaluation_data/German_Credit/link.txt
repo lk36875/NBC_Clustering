@@ -1,0 +1,7 @@
+https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/datasets/real-world/german.arff
+
+data types:
+string,double,string,string,double,string,string,double,string,string,double,string,double,string,string,double,string,double,string,string
+A11,6,A34,A43,1169,A65,A75,4,A93,A101,4,A121,67,A143,A152,2,A173,1,A192,A201,1
+
+../data/test_data/mixed/data.csv 3 gower ./output_gower string,double,string,string,double,string,string,double,string,string,double,string,double,string,string,double,string,double,string,string

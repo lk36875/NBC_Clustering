@@ -1,0 +1,8 @@
+35,90,true,A,0
+40,65,false,AB,0
+45,68,false,AB,1
+40,70,true,AB,1
+45,75,true,B,0
+35,70,false,B,1
+45,70,true,0,1
+50,72,false,A,0

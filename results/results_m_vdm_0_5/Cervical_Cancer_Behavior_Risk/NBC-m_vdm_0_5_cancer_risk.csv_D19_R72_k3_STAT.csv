@@ -1,0 +1,14 @@
+Input filename: cancer_risk.csv
+Number of rows: 72
+Number of attributes: 19
+K: 3
+File reading Time: 4 ms.
+K+NN Time: 466911 ms.
+Grouping Time: 0 ms.
+Sum: 466915 ms.
+Number of core points: 33
+Number of boundary points: 11
+Number of noise points: 28
+TP: 402
+TN: 924
+Rand: 0.52
